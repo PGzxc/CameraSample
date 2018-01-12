@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraSample</string>
+    <string name="take_photo">拍照</string>
+    <string name="choose_photo">从相册选</string>
+</resources>
